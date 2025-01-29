@@ -1,7 +1,3 @@
-Here’s your properly formatted `README.md` with separate subheadings for better readability:  
-
----
-
 # 🚀 Aditya Kumar | Full-Stack Developer & AI Enthusiast  
 
 📧 **Email:** [adityakumarr6907@gmail.com](mailto:adityakumarr6907@gmail.com)  
@@ -82,6 +78,3 @@ I'm a passionate **Full-Stack Developer & AI Enthusiast** with expertise in **We
 ## 📬 Let's Connect!  
 If you're interested in **Full-Stack Development, AI, or exciting collaborations**, feel free to reach out! 🚀  
 
----
-
-This version provides clear headings and structured content, making it easy for recruiters and visitors to navigate. Let me know if you'd like any refinements! 😊
