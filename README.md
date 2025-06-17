@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer & AI Enthusiast** with expertise in **We
 ---
 
 ## 🏆 Achievements  
-- **🥇 1st place** in Mini Project Competition (out of 600 students)  
+- **🥇 1st place** in Mini Project Competition (out of 1200 students)  
 - **🏆 Flipkart Grid 6.0 – Round 1 Qualifier**  
 - **🏆 Tata Imagination Challenge 2024 – Round 3 Qualifier**  
 - **🏆 Rebel Foods: Eatsure Cloud 2024 – Round 3 Qualifier**  
